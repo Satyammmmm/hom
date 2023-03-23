@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828347805980",
+    "project_id": "homm-b1ecf",
+    "storage_bucket": "homm-b1ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828347805980:android:84d4e352f51b3767a88ad9",
+        "android_client_info": {
+          "package_name": "com.example.hom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828347805980-tho5m419ljs82jultnqljl9hq263ghjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB6KZ-fOV82RGzq2jTHHUB04scH8KkSRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828347805980-tho5m419ljs82jultnqljl9hq263ghjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
